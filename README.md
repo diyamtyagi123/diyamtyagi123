@@ -12,8 +12,6 @@
 - 🔐 Currently working as **Cyber Security Trainee at TCS**
 - 💻 Strong interest in **Full Stack Development with AI-assisted workflows**
 - 🌱 Exploring **Modern Web Development + Security Tools**
-- 🧠 Solved **300+ DSA problems**
-- ⭐ **3-Star CodeChef Coder**
 - 📫 Reach me at: **diyamtyagi123@gmail.com**
 
 ---
