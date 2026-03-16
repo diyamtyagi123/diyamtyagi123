@@ -41,25 +41,9 @@
 </p>
 
 ### Security & Analytics Tools
-<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk"/>
-<img src="https://img.shields.io/badge/PaloAlto-F04E23?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CrowdStrike-E01F3D?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk"/> <img src="https://img.shields.io/badge/PaloAlto-F04E23?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CrowdStrike-E01F3D?style=for-the-badge"/> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 <img src="https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
-
----
-
-## 📌 Featured Projects
-
-### 🔹 Sorting Visualization Web App
-- Interactive visualizer for 5 sorting algorithms
-- Built using **HTML, CSS, JavaScript**
-- Helps users understand algorithm execution step-by-step
-
-### 🔹 Blood Donation Website
-- Responsive blood donation platform
-- Built with **HTML & CSS**
-- Includes donor search and login system
 
 ---
 
@@ -73,10 +57,6 @@
 ---
 
 ## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=diyamtyagi123&show_icons=true&theme=tokyonight)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=diyamtyagi123&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diyamtyagi123&layout=compact&theme=tokyonight)
 
