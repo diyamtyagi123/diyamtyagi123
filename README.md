@@ -93,3 +93,8 @@
 ## ⚡ Fun Fact
 
 I enjoy solving problems that sit between **logic, technology, and practical impact**.
+
+
+<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk"/>
+<img src="https://img.shields.io/badge/PaloAlto-F04E23?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CrowdStrike-E01F3D?style=for-the-badge"/>
