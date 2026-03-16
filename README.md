@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Diya Tyagi</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h1 align="center">Hi 👋, I'm Diyam Tyagi</h1>
+<h3 align="center">I'm a passionate developer and tech enthusiast who enjoys building impactful projects and contributing to the open-source community.</h3>
 
 ---
 
 ### 🚀 About Me
-- 🌱 I’m currently learning **Web Development**
-- 💻 Interested in **Frontend Development**
-- 📫 How to reach me: your-email@gmail.com
+- 🌱 I’m currently learning **Modern Web Development and exploring AI-powered tools**
+- 💻 Interested in **Full-stack Development**
+- 📫 How to reach me: diyamtyagi123@gmail.com
 
 ---
 
@@ -38,6 +38,6 @@
 ---
 
 ### 🌐 Connect With Me
-- LinkedIn
-- Portfolio
-- Twitter
+- LinkedIn - www.linkedin.com/in/diyamtyagi
+- Portfolio - 
+- Twitter - https://x.com/check4dmt
