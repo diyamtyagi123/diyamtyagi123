@@ -41,11 +41,11 @@
 </p>
 
 ### Security & Analytics Tools
-- Splunk  
-- Palo Alto Firewall  
-- CrowdStrike  
-- Microsoft Sentinel  
-- Tableau  
+<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk"/>
+<img src="https://img.shields.io/badge/PaloAlto-F04E23?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CrowdStrike-E01F3D?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
 
 ---
 
@@ -93,8 +93,3 @@
 ## ⚡ Fun Fact
 
 I enjoy solving problems that sit between **logic, technology, and practical impact**.
-
-
-<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk"/>
-<img src="https://img.shields.io/badge/PaloAlto-F04E23?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CrowdStrike-E01F3D?style=for-the-badge"/>
