@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Diyam Tyagi</h1>
-<h3 align="center">Cyber Security Trainee | Developer | Problem Solver | Tech Enthusiast</h3>
+<h3 align="center">Developer | Problem Solver | Tech Enthusiast</h3>
 
 <p align="center">
-  Passionate about building impactful solutions, solving complex problems, and exploring modern technologies across development and cybersecurity.
+  Passionate about building useful projects, solving challenging problems, and continuously learning modern technologies.
 </p>
 
 ---
@@ -10,7 +10,7 @@
 ## 🚀 About Me
 
 - 🔐 Currently working as **Cyber Security Trainee at TCS**
-- 💻 Strong interest in **Full Stack Development, Cyber Security, and Problem Solving**
+- 💻 Strong interest in **Full Stack Development with AI-assisted workflows**
 - 🌱 Exploring **Modern Web Development + Security Tools**
 - 🧠 Solved **300+ DSA problems**
 - ⭐ **3-Star CodeChef Coder**
@@ -44,9 +44,7 @@
 - Splunk  
 - Palo Alto Firewall  
 - CrowdStrike  
-- Zscaler  
 - Microsoft Sentinel  
-- Snowflake  
 - Tableau  
 
 ---
@@ -94,4 +92,4 @@
 
 ## ⚡ Fun Fact
 
-I enjoy solving problems that sit between **logic, security, and product thinking**.
+I enjoy solving problems that sit between **logic, technology, and practical impact**.
